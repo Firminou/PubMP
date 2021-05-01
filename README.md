@@ -2,7 +2,7 @@
 Un script python pour pub
 
 ## Configuration
-### Installez les dépedances
+### Installez les dépendances
 
 - Python : https://www.python.org/ftp/python/3.9.4/python-3.9.4-amd64.exe
 - Discord : python -m pip install Discord (commandes à faire dans cmd)
